@@ -121,6 +121,8 @@ main {
     width: 65vw;
     height: 55vh;
     background-color: #BBE1FA;
+    overflow: scroll;
+    overflow-x: hidden;
 }
 
 .ad2 {

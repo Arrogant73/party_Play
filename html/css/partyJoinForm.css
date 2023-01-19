@@ -15,6 +15,7 @@
     background-color: white;
     border: none;
     font-size: 1em;
+    margin-bottom: 20px;
 }
 
 .partyJoin select{
@@ -31,7 +32,7 @@
 }
 
 .submit{
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 20px;
     text-align: center;
     background: #0F4C75;

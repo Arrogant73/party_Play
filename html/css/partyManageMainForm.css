@@ -9,11 +9,7 @@ main{
 .partyManageMain .partyManageListMain{
     position: relative;
     background-color: white;
-<<<<<<< HEAD
     padding: 27px 40px 300px 25px;
-=======
-    padding: 27px 40px 0 25px;
->>>>>>> 309036a23434d1bcc660ea46c30d0da28d1d684f
 }
 
 .partyManageMain .partyManageListMain .partyManageCheck{
@@ -87,7 +83,6 @@ main{
 }
 
 .partyEdit {
-<<<<<<< HEAD
     text-decoration: none; color: black;
 }
 
@@ -109,9 +104,4 @@ main{
 
 .partyManageMainCreate:hover {
     color: #0F4C75;
-=======
-    border: black;
-    border-radius: 10;
-    text-decoration: none; color: black;
->>>>>>> 309036a23434d1bcc660ea46c30d0da28d1d684f
 }
